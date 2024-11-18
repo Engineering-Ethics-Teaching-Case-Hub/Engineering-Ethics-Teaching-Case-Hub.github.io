@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: 工程伦理案例库
+title: 工程伦理案例库 | 副标题
+description: 叙述
 tags:
   - blog
   - template
@@ -11,14 +10,12 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: 主页
     url: /
-  - title: About
+  - title: 关于
     url: /about
-  - title: Contact
+  - title: 联系
     url: /contact
-  - title: Feed
-    url: /feed.xml
 email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
