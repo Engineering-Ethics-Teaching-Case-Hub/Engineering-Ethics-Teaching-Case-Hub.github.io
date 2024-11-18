@@ -1,11 +1,10 @@
 ---
 date: 2019-05-16 23:48:05
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: 工程伦理教学案例库
+subtitle: 一个案例，双重叙述
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  
 image: >-
   https://prod-discovery.edx-cdn.org/media/course/image/372d49c5-59b2-4b5e-8e5b-34c094e28894-50057d13bdfc.small.jpeg
 optimized_image: >-
